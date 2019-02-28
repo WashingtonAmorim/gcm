@@ -1,2 +1,2 @@
 # gcm
-Gerencia de Configuração de Mudança 
+Gerencia de Configuração e Mudança 
